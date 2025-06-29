@@ -86,8 +86,8 @@ jupyter notebook house-prices.ipynb
 ### 👤 Author
 
 * **Name**: Ritik Sharma
-* **LinkedIn**: [linkedin.com/in/ritiksharma](#)
-* **GitHub**: [github.com/yourusername](#)
+* **LinkedIn**: [linkedin.com/in/sharmaritik0998](#)
+* **GitHub**: [github.com/sharmaritik0998](#)
 
 ---
 
